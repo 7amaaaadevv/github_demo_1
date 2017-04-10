@@ -1,0 +1,361 @@
+            #top-bar-container {
+                
+                background-color: black;
+                width: 100%;
+                min-width: 1000px;
+                height: 38px;
+                
+            
+            }
+            
+            body {
+                
+                margin: 0 !important;
+                padding: 0 !important;
+                font-family: Lato, sans-serif;
+            
+            }
+            
+            #top-text {
+                
+                width: 1000px; 
+                margin: 0 auto;
+                    
+            }
+            
+            #top-text p{
+                
+                font-weight: lighter;
+                text-align: center;
+                color: white;
+                margin-top: 0;
+                padding-top: 10px;
+            
+            }
+            
+            .clear {
+                
+                clear: both;
+            
+            }
+            
+            #main-bar-container {
+                
+                width: 1000px;
+                height: 155px;
+                margin: 0 auto;
+                
+            }
+            
+            #flood-logo {
+                
+                float:left;
+                padding-top: 54px;
+                margin-left: -106px;
+                
+            }
+            
+            #social-menu {
+                
+                float: right;
+                padding-top: 62px;
+                margin-right: -92px;
+            
+            }
+            
+            #social-menu a{
+                
+                margin-right: 16px;
+                
+            }
+            
+            .no-margin {
+                
+                margin-right: 0 !important;
+                
+            }
+            
+            .padding {
+                
+                position:relative;
+                top:2px;
+                    
+            }
+            
+            #social-menu a:hover, #side-menu a:not(#home):hover {
+                
+                opacity: 0.5;
+                
+            }
+            
+            #gbp {
+                
+                float: right;
+                position:relative;
+                top: -5px;
+                right: -10px;
+                padding: 7px 9px 5px 9px;
+                border: 1px solid #6598CD;
+                border-radius: 3px;
+                font-size: 13px;
+            
+            }
+            
+            #items {
+                
+                font-size: 13px;
+                position: relative;
+                top: -9px;
+                right: -12px;
+                
+            }
+            
+            #basket {
+                
+                position: relative;
+                top: -7px;
+                right: -5px;
+            
+            }
+            
+            #search {
+                
+                border: 1px solid #6598CD;
+                width: 215px;
+                height: 15px;
+                float: right;
+                position:relative;
+                top: 75px;
+                right:75px;
+                border-radius: 3px;
+                padding: 12px 0 13px 9px;
+                
+            }
+            
+            #search-box {
+                
+                border: none;
+                font-size: 12px;
+                position: relative;
+                top: -3px;
+                left: 5px;
+                
+            }
+            
+            #search-box:focus {
+                
+                outline: 0;
+            
+            }
+            
+            .hr {
+                
+                border-top:1px solid #6598CD;
+                border-bottom: none;
+                width: 1200px;
+            
+            }
+            
+            #main-menu-container {
+                
+                width: 1100px;
+                height: 455px;
+                margin: 0 auto;
+                
+            }
+            
+            #side-menu a{
+                
+                text-decoration: none;
+                color: black;
+                position: relative;
+                top: 60px;
+                left: -25px;
+                line-height: 25px;
+                font-weight: bold;
+                
+            }
+            
+            #side-menu {
+                
+                float: left;
+                   
+            }
+            
+            #home {
+                
+                color: #6598CD !important;
+            
+            }
+            
+            
+            
+            #arrow {
+                
+                margin-left: 10px;
+           
+            }
+            
+            #main-image {
+                
+                float: right;
+                margin-right: -52px;
+                margin-top: 30px;
+                
+            }
+            
+            .hr2 {
+                
+                border-top:1px solid #6598CD;
+                border-bottom: none;
+                width: 200px;
+                float:left;
+                margin-left: 40px;
+                margin-right: 0;
+                
+            }
+            
+            #gallery-container {
+                
+                width: 1700px;
+                height: 1000px;
+                margin: 0 auto;
+                
+            }
+            
+            #best-sellers {
+                
+                margin: 5px 0 0 0;
+                width:200px;
+                float:left;
+                
+            }
+            
+            #best-sellers a {
+                
+                text-decoration: none;
+                color: black;
+                font-size: 18px;
+                font-weight: bold;
+                position: relative;
+                top: -7px;
+                left: -155px;
+                
+            }
+            
+            #scroll {
+                
+                margin-top: -15px;
+                margin-left: -201px;
+                width:200px;
+                
+            }
+            
+            #gallery {
+                
+                float: right;
+                width:1225px;
+                position: relative;
+                top: 27px;
+                left: -240px;
+                margin-bottom: 45px;
+                
+            }
+            
+            #gallery a{
+                
+                margin-left: 30px;
+                
+            }
+            
+            #bottom-menu-container {
+                
+                width: 1000px;
+                height: 155px;
+                margin: 0 auto;
+                   
+            }
+            
+            #side-menu-1 a{
+                
+                text-decoration: none;
+                color: #A3C1E1;
+                margin-left: 5px;
+                font-weight: lighter;
+                font-size: 13px;
+                line-height: 30px;
+                
+                
+            }
+            
+            #side-menu-2 a{
+                
+                text-decoration: none;
+                color: #A3C1E1;
+                margin-left: 5px;
+                font-weight: lighter;
+                font-size: 13px;
+                line-height: 30px;
+                
+            }
+            
+            #side-menu-1 {
+                
+                float:left;
+                margin-left:-105px;
+                margin-top: 35px;
+                width: 180px;
+                margin-bottom: 30px;
+                
+            }
+            
+            #side-menu-2 {
+                
+                float:left;
+                margin-top: 35px;
+                
+            }
+            
+            #bottom-pictures {
+                
+                float:right;
+                margin-top: 35px;
+                margin-right: -102px;
+            
+            }
+            
+            #bottom-pictures a {
+                
+                margin-left: 10px;
+            }
+            
+            #bottom-page {
+                
+                width: 1000px;
+                height: 100px;
+                margin: 25px 0 0 0 auto;
+                color: #666666;
+                font-size: 13px;
+                font-weight:lighter;
+                
+            }
+            
+            #bottom-page p {
+                
+                margin-top: 45px;
+                margin-left: 37px;
+            }
+            
+            #bottom-page a {
+                
+                text-decoration: none;
+                font-weight: bold;
+                color: black;
+            }
+            
+            #cards {
+                
+                float:right;
+                margin-right: -240px;
+                margin-top: -30px;
+            }
